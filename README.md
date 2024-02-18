@@ -1,2 +1,2 @@
 # QuartoProjeto
- Criando um site com detalhes do background sendo aplicado
+ Criando um site usando bastante  CSS testando o background e suas funconalidades 
